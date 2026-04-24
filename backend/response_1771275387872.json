@@ -1,0 +1,322 @@
+{
+  "resume_skills": [
+    "Bootstrap",
+    "C",
+    "C++",
+    "CSS",
+    "Express.js",
+    "Git",
+    "HTML",
+    "JWT",
+    "JavaScript",
+    "Material UI",
+    "MongoDB",
+    "Mongoose",
+    "MySQL",
+    "Node.js",
+    "Postman",
+    "Python",
+    "RESTful APIs",
+    "React.js",
+    "Tailwind CSS",
+    "Vercel",
+    "Visual Studio",
+    "Visual Studio Code"
+  ],
+  "jd_skills": [
+    "Amazon Web Services",
+    "Angular.js",
+    "CSS",
+    "Django",
+    "Git",
+    "Google Cloud Platform",
+    "HTML",
+    "Java",
+    "JavaScript",
+    "Microsoft Azure",
+    "Node.js",
+    "Python",
+    "React.js",
+    "Spring Boot",
+    "Teamwork",
+    "Vue.js",
+    "npm"
+  ],
+  "matched_skills": [
+    "Git",
+    "HTML",
+    "Node.js",
+    "JavaScript",
+    "React.js",
+    "Python",
+    "CSS"
+  ],
+  "missing_skills": [
+    "Java",
+    "Microsoft Azure",
+    "Vue.js",
+    "Spring Boot",
+    "Angular.js",
+    "Google Cloud Platform",
+    "Teamwork",
+    "Django",
+    "npm",
+    "Amazon Web Services"
+  ],
+  "critical_missing": [
+    "Java",
+    "Microsoft Azure",
+    "Google Cloud Platform",
+    "Amazon Web Services"
+  ],
+  "moderate_missing": [
+    "Vue.js",
+    "Spring Boot",
+    "Angular.js",
+    "Django"
+  ],
+  "optional_missing": [
+    "Teamwork",
+    "npm"
+  ],
+  "score_breakdown": {
+    "skill_overlap_percent": 42.65,
+    "category_overlap_percent": 100,
+    "tfidf_similarity_percent": 10.34,
+    "semantic_similarity_percent": 59.69
+  },
+  "final_readiness_score": 50.3,
+  "learning_plan": [
+    {
+      "skill": "Java",
+      "priority": "High",
+      "recommendation": "A foundational language for enterprise applications and Android development. Master core concepts like OOP, data structures, and algorithms to build a strong programming base.",
+      "roadmap_steps": [
+        "Learn Java Syntax, Variables, Data Types, Operators.",
+        "Understand Object-Oriented Programming (OOP) concepts: Classes, Objects, Inheritance, Polymorphism, Abstraction, Encapsulation.",
+        "Master Collections Framework (ArrayList, HashMap, LinkedList) and Generics.",
+        "Explore Exception Handling, File I/O, and Multithreading.",
+        "Build small command-line applications and explore IDEs like IntelliJ/Eclipse.",
+        "Learn about JDBC for database connectivity.",
+        "Familiarize yourself with build tools like Maven/Gradle.",
+        "Explore popular frameworks like Spring Boot or libraries like JUnit."
+      ],
+      "estimated_time": "3-6 months for foundational proficiency, continuous learning for mastery.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=eIrMbAQSU34",
+        "https://www.youtube.com/watch?v=SG6VYXLGUBk"
+      ]
+    },
+    {
+      "skill": "Microsoft Azure",
+      "priority": "High",
+      "recommendation": "Become proficient in cloud services to design, deploy, and manage scalable applications. Focus on a specific area like compute, storage, or networking initially to build deep expertise.",
+      "roadmap_steps": [
+        "Understand Cloud Computing fundamentals (IaaS, PaaS, SaaS) and Azure core concepts.",
+        "Explore Azure Subscription, Resource Groups, and ARM Templates.",
+        "Learn about Azure Compute services: VMs, App Services, Functions, Kubernetes Service (AKS).",
+        "Master Azure Storage solutions: Blob, File, Table, Queue storage.",
+        "Understand Azure Networking: VNETs, Load Balancers, VPN Gateway, ExpressRoute.",
+        "Familiarize yourself with Azure Databases: SQL Database, Cosmos DB, PostgreSQL.",
+        "Learn about Azure Identity and Security: Azure AD, RBAC, Security Center.",
+        "Prepare for Azure AZ-900 (Fundamentals) and then specialty exams like AZ-104 (Administrator)."
+      ],
+      "estimated_time": "4-8 months for associate level certification and practical application.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=tDuruX7XSac",
+        "https://www.youtube.com/watch?v=nkv3HkPBOeY"
+      ]
+    },
+    {
+      "skill": "Google Cloud Platform",
+      "priority": "High",
+      "recommendation": "Gain expertise in Google's robust cloud ecosystem, crucial for data-intensive applications and machine learning. Understand its unique service offerings and integrations to maximize your impact.",
+      "roadmap_steps": [
+        "Learn Cloud Computing fundamentals and GCP core services.",
+        "Understand GCP Projects, Billing, IAM, and Resource Hierarchy.",
+        "Explore GCP Compute services: Compute Engine, App Engine, Cloud Functions, GKE (Kubernetes Engine).",
+        "Master GCP Storage solutions: Cloud Storage, Cloud SQL, Cloud Spanner, Firestore, Bigtable.",
+        "Understand GCP Networking: VPC, Load Balancing, Cloud CDN.",
+        "Familiarize yourself with GCP Data Analytics: BigQuery, Dataflow, Pub/Sub.",
+        "Learn about GCP AI/ML services: AI Platform, Vision AI, Natural Language AI.",
+        "Prepare for Google Cloud Associate Cloud Engineer certification."
+      ],
+      "estimated_time": "4-8 months for associate level certification and practical application.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=pTm0iI3_pIQ",
+        "https://www.youtube.com/watch?v=IUU6OR8yHCc"
+      ]
+    },
+    {
+      "skill": "Amazon Web Services",
+      "priority": "High",
+      "recommendation": "Master the leading cloud platform to build scalable, reliable, and secure infrastructure. Start with foundational services and then specialize based on your specific career goals.",
+      "roadmap_steps": [
+        "Understand Cloud Computing fundamentals and AWS core services.",
+        "Explore AWS Global Infrastructure, Accounts, IAM, and Billing.",
+        "Learn about AWS Compute services: EC2, Lambda, ECS/EKS, Elastic Beanstalk.",
+        "Master AWS Storage solutions: S3, EBS, EFS, Glacier, RDS, DynamoDB.",
+        "Understand AWS Networking: VPC, Route 53, ELB, CloudFront.",
+        "Familiarize yourself with AWS Security: IAM, Security Groups, NACLs, AWS WAF.",
+        "Explore AWS Monitoring: CloudWatch, CloudTrail.",
+        "Prepare for AWS Certified Cloud Practitioner and then Solutions Architect Associate."
+      ],
+      "estimated_time": "4-8 months for associate level certification and practical application.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=BSGcQi2WNPg",
+        "https://www.youtube.com/watch?v=k1RI5locZE4"
+      ]
+    },
+    {
+      "skill": "Vue.js",
+      "priority": "Medium",
+      "recommendation": "Become proficient in this approachable and powerful JavaScript framework for building user interfaces. Focus on reactivity, components, and state management to create dynamic web applications.",
+      "roadmap_steps": [
+        "Learn HTML, CSS, and modern JavaScript (ES6+).",
+        "Understand Vue.js core concepts: Directives, Components, Data Binding, Event Handling.",
+        "Explore Vue CLI for project setup and development workflow.",
+        "Master Component communication (Props, Events) and Lifecycle Hooks.",
+        "Learn about Routing with Vue Router.",
+        "Understand State Management with Pinia (or Vuex).",
+        "Practice building small to medium-sized single-page applications.",
+        "Explore ecosystem tools: Vite, Nuxt.js (for SSR/SSG)."
+      ],
+      "estimated_time": "2-4 months for basic proficiency, ongoing practice for complex applications.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=Kt2E8nblvXU",
+        "https://www.youtube.com/watch?v=nhBVL41-_Cw"
+      ]
+    },
+    {
+      "skill": "Spring Boot",
+      "priority": "Medium",
+      "recommendation": "Essential for Java developers to rapidly build robust, production-ready applications. Focus on dependency injection, REST APIs, and data persistence for enterprise solutions.",
+      "roadmap_steps": [
+        "Master Java core concepts and Object-Oriented Programming.",
+        "Understand Maven/Gradle build tools.",
+        "Learn Spring Framework basics: IoC Container, Dependency Injection.",
+        "Explore Spring Boot project setup with Spring Initializr.",
+        "Develop RESTful APIs with Spring Web (Controllers, Services, Repositories).",
+        "Implement Data Persistence with Spring Data JPA and a database (e.g., H2, PostgreSQL).",
+        "Understand Spring Security for authentication and authorization.",
+        "Learn about Actuator, Testing (JUnit, Mockito), and externalized configuration."
+      ],
+      "estimated_time": "3-5 months for building professional-grade Java backend applications.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=35EQXmHKZYs",
+        "https://www.youtube.com/watch?v=9SGDpanrc8U"
+      ]
+    },
+    {
+      "skill": "Angular",
+      "priority": "Medium",
+      "recommendation": "Master Google's comprehensive framework for enterprise-grade single-page applications. Focus on TypeScript, components, services, and reactive programming to build robust UIs.",
+      "roadmap_steps": [
+        "Learn HTML, CSS, and TypeScript fundamentals.",
+        "Understand Angular CLI for project creation and management.",
+        "Master Components, Modules, Data Binding, and Directives.",
+        "Learn about Services and Dependency Injection.",
+        "Implement Routing with Angular Router.",
+        "Explore Reactive Programming with RxJS.",
+        "Understand Forms (Template-driven and Reactive Forms).",
+        "Practice building CRUD applications and consuming REST APIs."
+      ],
+      "estimated_time": "3-5 months for professional development of complex frontend applications.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=44b90hAMMIo",
+        "https://www.youtube.com/watch?v=0LhBvp8qpro"
+      ]
+    },
+    {
+      "skill": "Django",
+      "priority": "Medium",
+      "recommendation": "Become proficient in this 'batteries-included' Python web framework for rapid development of robust web applications. Focus on its MVC architecture, ORM, and admin panel to build full-stack solutions.",
+      "roadmap_steps": [
+        "Master Python programming fundamentals.",
+        "Understand basic web development concepts: HTTP, HTML, CSS.",
+        "Learn Django project and app structure.",
+        "Explore Django's ORM for database interaction (Models, Migrations).",
+        "Develop Views, URLs, and Templates for web pages.",
+        "Implement User Authentication and Authorization.",
+        "Utilize Django Admin for managing data.",
+        "Build RESTful APIs with Django REST Framework (DRF)."
+      ],
+      "estimated_time": "2-4 months for building functional web applications and APIs.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=OTmQOjsl0eg",
+        "https://www.youtube.com/watch?v=iflSRpcyzdI"
+      ]
+    }
+  ],
+  "explanation": "Overall Assessment: Moderate Match. You matched 7 required skills. There are 4 critical skills missing, primarily in high-impact domains such as programming or cloud technologies. Addressing these gaps will significantly improve your readiness score.",
+  "score_simulation": [
+    {
+      "skill_if_learned": "Java",
+      "priority_weight": 1.5,
+      "projected_score": 64.01,
+      "score_increase": 12.94
+    },
+    {
+      "skill_if_learned": "Microsoft Azure",
+      "priority_weight": 1.5,
+      "projected_score": 64.01,
+      "score_increase": 12.94
+    },
+    {
+      "skill_if_learned": "Google Cloud Platform",
+      "priority_weight": 1.5,
+      "projected_score": 64.01,
+      "score_increase": 12.94
+    },
+    {
+      "skill_if_learned": "Amazon Web Services",
+      "priority_weight": 1.5,
+      "projected_score": 64.01,
+      "score_increase": 12.94
+    },
+    {
+      "skill_if_learned": "Vue.js",
+      "priority_weight": 1.2,
+      "projected_score": 57.3,
+      "score_increase": 6.24
+    },
+    {
+      "skill_if_learned": "Spring Boot",
+      "priority_weight": 1.2,
+      "projected_score": 57.3,
+      "score_increase": 6.24
+    },
+    {
+      "skill_if_learned": "Angular.js",
+      "priority_weight": 1.2,
+      "projected_score": 57.3,
+      "score_increase": 6.24
+    },
+    {
+      "skill_if_learned": "Django",
+      "priority_weight": 1.2,
+      "projected_score": 57.3,
+      "score_increase": 6.24
+    },
+    {
+      "skill_if_learned": "npm",
+      "priority_weight": 1,
+      "projected_score": 52.24,
+      "score_increase": 1.18
+    },
+    {
+      "skill_if_learned": "Teamwork",
+      "priority_weight": 1,
+      "projected_score": 51.65,
+      "score_increase": 0.59
+    }
+  ]
+}

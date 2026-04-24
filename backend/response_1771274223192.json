@@ -1,0 +1,228 @@
+{
+  "resume_skills": [
+    "Bootstrap",
+    "C",
+    "C++",
+    "CSS",
+    "Express.js",
+    "Git",
+    "HTML",
+    "JWT",
+    "JavaScript",
+    "Material UI",
+    "MongoDB",
+    "Mongoose",
+    "MySQL",
+    "Node.js",
+    "Postman",
+    "Python",
+    "RESTful APIs",
+    "React.js",
+    "Tailwind CSS",
+    "Vercel",
+    "Visual Studio",
+    "Visual Studio Code"
+  ],
+  "jd_skills": [
+    "Amazon Web Services",
+    "Angular.js",
+    "CSS",
+    "Django",
+    "Git",
+    "Google Cloud Platform",
+    "HTML",
+    "Java",
+    "JavaScript",
+    "Microsoft Azure",
+    "Node.js",
+    "Python",
+    "React.js",
+    "Spring Boot",
+    "Teamwork",
+    "Vue.js",
+    "npm"
+  ],
+  "matched_skills": [
+    "Git",
+    "JavaScript",
+    "HTML",
+    "Node.js",
+    "React.js",
+    "CSS",
+    "Python"
+  ],
+  "missing_skills": [
+    "Spring Boot",
+    "Vue.js",
+    "Django",
+    "Angular.js",
+    "Amazon Web Services",
+    "Microsoft Azure",
+    "Google Cloud Platform",
+    "Teamwork",
+    "Java",
+    "npm"
+  ],
+  "critical_missing": [
+    "Amazon Web Services",
+    "Microsoft Azure",
+    "Google Cloud Platform",
+    "Java"
+  ],
+  "moderate_missing": [
+    "Spring Boot",
+    "Vue.js",
+    "Django",
+    "Angular.js"
+  ],
+  "optional_missing": [
+    "Teamwork",
+    "npm"
+  ],
+  "score_breakdown": {
+    "skill_overlap_percent": 42.65,
+    "category_overlap_percent": 100,
+    "tfidf_similarity_percent": 10.34,
+    "semantic_similarity_percent": 59.69
+  },
+  "final_readiness_score": 50.3,
+  "learning_plan": [
+    {
+      "skill": "Amazon Web Services",
+      "priority": "High",
+      "recommendation": "AWS skills are in high demand across all industries for cloud infrastructure and development roles. Master core services and aim for a certification to validate your expertise and open numerous career doors.",
+      "roadmap_steps": [
+        "Understand Cloud Computing Fundamentals (IaaS, PaaS, SaaS, shared responsibility).",
+        "Learn AWS Core Services (EC2, S3, VPC, IAM, RDS, Lambda) and their use cases.",
+        "Practice with hands-on projects and labs (e.g., host a website, deploy a serverless app).",
+        "Prepare for and pass an AWS Associate-level certification (e.g., Solutions Architect Associate)."
+      ],
+      "estimated_time": "3-6 months for Associate level, 6-12 months for Professional level.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=BSGcQi2WNPg",
+        "https://www.youtube.com/watch?v=k1RI5locZE4"
+      ]
+    },
+    {
+      "skill": "Microsoft Azure",
+      "priority": "High",
+      "recommendation": "Azure is crucial for organizations heavily invested in Microsoft ecosystems and hybrid cloud solutions. Developing proficiency will make you a valuable asset for enterprises leveraging its comprehensive suite of services.",
+      "roadmap_steps": [
+        "Grasp Cloud Computing Concepts and Azure fundamentals (e.g., regions, resource groups).",
+        "Study Azure Core Services (Compute, Networking, Storage, Databases, Identity, Serverless).",
+        "Execute practical labs and deploy applications using various Azure services.",
+        "Target the Azure Fundamentals (AZ-900) and then an Associate certification (e.g., AZ-104 or AZ-204)."
+      ],
+      "estimated_time": "3-6 months for Associate level, 6-12 months for Professional level.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=tDuruX7XSac",
+        "https://www.youtube.com/watch?v=nkv3HkPBOeY"
+      ]
+    },
+    {
+      "skill": "Google Cloud Platform",
+      "priority": "High",
+      "recommendation": "GCP excels in data analytics, machine learning, and containerization, making it a powerful choice for modern, data-driven applications. Gaining expertise will position you well for roles requiring cutting-edge cloud innovation and scalability.",
+      "roadmap_steps": [
+        "Learn Cloud Computing Basics and GCP's unique offerings (e.g., project structure, billing).",
+        "Explore GCP Core Services (Compute Engine, Cloud Storage, VPC, IAM, BigQuery, Kubernetes Engine).",
+        "Complete hands-on labs and build sample applications on GCP.",
+        "Prepare for and achieve the Google Cloud Associate Cloud Engineer certification."
+      ],
+      "estimated_time": "3-6 months for Associate level, 6-12 months for Professional level.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=IUU6OR8yHCc",
+        "https://www.youtube.com/watch?v=jVE7qKWg8mc"
+      ]
+    },
+    {
+      "skill": "Java",
+      "priority": "High",
+      "recommendation": "Java remains a foundational language for enterprise applications, Android development, and big data processing. Mastering its core concepts and ecosystem provides a robust base for a wide array of software engineering roles.",
+      "roadmap_steps": [
+        "Learn Java Syntax, Data Types, Control Flow, and Object-Oriented Programming (OOP) Principles.",
+        "Understand Collections Framework, Exception Handling, I/O Streams, and Generics.",
+        "Build small console applications and then simple GUI applications (e.g., with Swing/JavaFX).",
+        "Familiarize yourself with build tools like Maven/Gradle, version control (Git), and basic testing."
+      ],
+      "estimated_time": "4-8 months for solid fundamentals, 1-2 years for advanced proficiency.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=eIrMbAQSU34",
+        "https://www.youtube.com/watch?v=LBqE4YOvhyc"
+      ]
+    },
+    {
+      "skill": "Spring Boot",
+      "priority": "Medium",
+      "recommendation": "Spring Boot is the de-facto standard for building production-ready, stand-alone, and robust Java applications and microservices. Proficiency in Spring Boot is essential for backend developers in the Java ecosystem.",
+      "roadmap_steps": [
+        "Ensure strong Java fundamentals, especially OOP and annotations.",
+        "Understand Spring Framework Core Concepts (IoC, DI, AOP) and their application.",
+        "Learn Spring Boot essentials: setup, auto-configuration, starters, embedded servers, and properties.",
+        "Build RESTful APIs with Spring Boot, Spring Data JPA, and integrate with relational or NoSQL databases."
+      ],
+      "estimated_time": "3-6 months for basic proficiency after Java, 6-12 months for advanced topics.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=35EQXmHKZYs",
+        "https://www.youtube.com/watch?v=9SGDpanrc8U"
+      ]
+    },
+    {
+      "skill": "Vue.js",
+      "priority": "Medium",
+      "recommendation": "Vue.js is a progressive JavaScript framework known for its approachability and performance, making it excellent for single-page applications and interactive UIs. Its gentle learning curve and strong community support make it a valuable skill for front-end development.",
+      "roadmap_steps": [
+        "Master JavaScript fundamentals (ES6+ features, asynchronous programming, DOM manipulation).",
+        "Understand Vue.js core concepts: components, reactivity, directives, lifecycle hooks, props, and events.",
+        "Build small projects using Vue CLI, explore Vue Router for navigation, and Vuex for state management.",
+        "Learn to integrate with REST APIs, handle forms, and deploy a Vue application."
+      ],
+      "estimated_time": "2-4 months for basic proficiency, 4-8 months for advanced projects.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=Kt2E8nblvXU",
+        "https://www.youtube.com/watch?v=8pn9KEuXG28"
+      ]
+    },
+    {
+      "skill": "Django",
+      "priority": "Medium",
+      "recommendation": "Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It's ideal for building robust, secure, and scalable web applications quickly, from content management systems to social networks.",
+      "roadmap_steps": [
+        "Solidify Python fundamentals, including object-oriented programming.",
+        "Understand web development basics (HTTP, client-server architecture, MVC/MVT pattern).",
+        "Learn Django's core components: models, views, templates, URLs, forms, and the ORM.",
+        "Build several full-stack web applications, integrating with a database and implementing user authentication."
+      ],
+      "estimated_time": "3-6 months for basic proficiency, 6-12 months for advanced applications.",
+      "career_impact": "High",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=OTmQOjsl0eg",
+        "https://www.youtube.com/watch?v=iflSRpcyzdI"
+      ]
+    },
+    {
+      "skill": "Angular.js",
+      "priority": "Medium",
+      "recommendation": "While largely superseded by newer frameworks and its successor, modern Angular, understanding AngularJS (version 1.x) can still be valuable for maintaining legacy applications. For new projects, it's recommended to focus on modern Angular or other contemporary frameworks.",
+      "roadmap_steps": [
+        "Master JavaScript fundamentals (ES5/ES6 features, prototypal inheritance).",
+        "Understand MVC pattern and Dependency Injection as implemented in AngularJS.",
+        "Learn AngularJS core concepts: modules, controllers, scopes, directives, services, and filters.",
+        "Build a single-page application integrating with a backend API and exploring routing with `ngRoute`."
+      ],
+      "estimated_time": "2-4 months for basic proficiency, 4-6 months for complex applications.",
+      "career_impact": "Low to Medium",
+      "youtube_links": [
+        "https://www.youtube.com/watch?v=0LhBvp8qpro",
+        "https://www.youtube.com/watch?v=9b9pLgaSQuI"
+      ]
+    }
+  ],
+  "explanation": "Overall Assessment: Moderate Match. You matched 7 required skills. There are 4 critical skills missing, primarily in high-impact domains such as programming or cloud technologies. Addressing these gaps will significantly improve your readiness score."
+}

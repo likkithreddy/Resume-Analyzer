@@ -1,0 +1,5 @@
+# app/config.py
+
+GEMINI_API_KEY = "AIzaSyCPQjySwh71lW0D1g5UwKFsyzggdmoyqts"
+YOUTUBE_API_KEY = "AIzaSyBL8kalfYEMz0SjqZ7QUiixXw27x1vFn04"
+# YOUTUBE_API_KEY = "AIzaSyAKJk2SOH2HvLN-yDMCjjkHoFnqMSu1ZEE"  clg
